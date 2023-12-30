@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mí
 
-- :school: Soy estudiante de  [Ingeniería Informática](https://www.upv.es/titulaciones/GII/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9lY3FkNzRlaTV5aWtqa2R2azVzMHF2YmFuOTJzN2ljcnBmNWcybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif" width="100" align="right"/>
+- :school: Soy estudiante de cuarto de [Ingeniería Informática](https://www.upv.es/titulaciones/GII/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html) <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="200" align="right"/>
 - :technologist: `Ciberseguridad`, `Administración de sistemas y redes` & `Ingeniería Cloud`
 - :nerd_face: **Aprendizaje** continuo
 
@@ -61,7 +61,7 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Muchas gracias por ver mi perfil :wink: <br/>
+  :heart_eyes: Muchas gracias por ver mi perfil! :wink: <br/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
