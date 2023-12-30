@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mí
 
-- :school: Soy estudiante de cuarto de [Ingeniería Informática](https://www.upv.es/titulaciones/GII/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html) <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="200" align="right"/>
+- :school: Soy estudiante de cuarto de [Ingeniería Informática](https://www.upv.es/titulaciones/GII/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html) <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="175" align="right"/>
 - :technologist: `Ciberseguridad`, `Administración de sistemas y redes` & `Ingeniería Cloud`
 - :nerd_face: **Aprendizaje** continuo
 
