@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mí
 
-- :school: Soy estudiante del [Máster Universitario en Ciberseguridad y Ciberinteligencia](https://www.upv.es/titulaciones/MUCC/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html) <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="175" align="right"/>
+- :school: Soy estudiante de [Máster Universitario en Ciberseguridad y Ciberinteligencia](https://www.upv.es/titulaciones/MUCC/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html) <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="175" align="right"/>
 - :school: Soy graduado en [Ingeniería Informática](https://www.upv.es/titulaciones/GII/) en la [Universidad Politécnica de Valencia](http://www.upv.es/index-es.html)
 - :technologist: `Ciberseguridad`, `Administración de sistemas y redes` & `Ingeniería Cloud`
 - :nerd_face: **Aprendizaje** continuo
