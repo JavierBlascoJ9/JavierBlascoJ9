@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Isolata&duration=3500&pause=500&color=14C000&center=true&vCenter=true&multiline=true&random=false&width=550&height=60&lines=Hello!!!+I'm+Javier+Blasco+;Welcome%40+to+my+profile!" alt="Title"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Isolata&duration=3500&pause=500&color=14C000&center=true&vCenter=true&multiline=true&random=false&width=550&height=60&lines=Hello!!!+I'm+Javier+Blasco+;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About me
