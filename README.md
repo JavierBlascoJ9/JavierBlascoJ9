@@ -8,11 +8,7 @@
 
 - :school: I am a student of the [Master's Degree in Cybersecurity and Cyberintelligence](https://www.upv.es/titulaciones/MUCC/) at the [Polytechnic University of Valencia](http://www.upv.es/index-es.html)
 - :school: Graduate in [Computer Engineering](https://www.upv.es/titulaciones/GII/) also at [Polytechnic University of Valencia](http://www.upv.es/index-es.html)
-- :technologist: Interested in cybersecurity, specifically low-level system security and network security
-
-&nbsp;&nbsp;
-
-<img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="175" align="right"/>
+- :technologist: Interested in cybersecurity, specifically low-level system security and network security <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="175" align="right"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
